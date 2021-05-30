@@ -1,4 +1,4 @@
-# ModOrganizer-to-OpenMW
+# ModManager-for-OpenMW
 A Mod Organizer plugin to export your VFS, plugin selection and load order to OpenMW
 
 ## Why you'd want this:
